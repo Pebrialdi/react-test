@@ -103,8 +103,8 @@ const Home = ({ addToCart }) => {
                     <img src='image/T1.jpg' alt='testimonial'></img>
                   </div>
                   <div className='info'>
-                    <h3>Ambatron</h3>
-                    <h4>Mass Destruction</h4>
+                    <h3>T1Bot</h3>
+                    <h4>Shopping User</h4>
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.
                       Curabitur eu fringilla odio. Nam feugiat nibh et turpis
                       rutrum ultrices. Proin ullamcorper sed erat vel
